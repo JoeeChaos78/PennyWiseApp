@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+pywin32
+google-auth
+google-auth-oauthlib
+google-api-python-client
